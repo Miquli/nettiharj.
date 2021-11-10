@@ -4,15 +4,15 @@ body {
 }    
 
 h1.solid {
-  font-size: 40px;
+  font-size: 100px;
   border-style: solid;
 }
 
 h1 { 
-  font-size: 40px;
+  font-size: 100px;
 }
 
 p {
-  font-size: 20px;
+  font-size: 40px;
   
 }
