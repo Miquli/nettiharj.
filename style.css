@@ -13,7 +13,7 @@ p.kalle {
   text-align: center;
   background-color: white;
   border: 2px solid white;
-  margin: 50px 50px 50px 450px;
+  margin: auto;
   width: 50%;
   border-radius: 8px;
 }
@@ -28,4 +28,5 @@ p.ots {
 div {
   text-align: center;
   display: block;
+  margin: auto;
 }
