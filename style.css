@@ -13,7 +13,10 @@ p.kalevi {
   background-color: white;
   border: 2px solid white;
   border-radius: 8px;
-  padding: 5px;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 }
 
 p.ots {
