@@ -19,4 +19,7 @@ p.kalevi {
 p.ots {
   float: left;
 }
-  
+
+img {
+  float: none;
+}
