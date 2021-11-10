@@ -12,9 +12,8 @@ p.kalle {
   text-align: center;
   background-color: white;
   border: 2px solid white;
-  box-sizing: border-box;
   margin: 25px 25px 50px 50px;
-  padding-left: 2cm;
+  padding-left: 5cm;
 }
 
 p.ots {
