@@ -26,6 +26,7 @@ p.ots {
 }
 
 div {
+  text-align: center;
   display: block;
   margin: auto;
 }
