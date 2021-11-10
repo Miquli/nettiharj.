@@ -18,14 +18,10 @@ p.kalle {
 
 p.ots {
   float: left;
-}
-
-img.Trulli {
-  align: center;
+  width: 300px;
 }
 
 div {
   text-align: center;
-  float: none;
-  
+  float: none; 
 }
