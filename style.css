@@ -6,11 +6,13 @@ body {
 h1.solid {
   border-style: solid;
   text-align: center;
+  border-width: 50%;
 }
 
 p.kalle {
   text-align: center;
-  border: 2px solid white;
+  background-color: white;
+  border: 2px solid;
   margin: auto;
   width: 50%;
   border-radius: 8px;
@@ -19,7 +21,8 @@ p.kalle {
 p.ots {
   float: left;
   border-radius: 8px;
-  border: 2px solid white;
+  background-color: white;
+  border: 2px solid;
 }
 
 div {
