@@ -15,6 +15,7 @@ p.kalle {
   border: 2px solid white;
   margin: 25px 25px 50px 50px;
   width: 50%;
+  border-radius: 8px;
 }
 
 p.ots {
