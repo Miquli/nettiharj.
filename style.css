@@ -13,7 +13,7 @@ p.kalle {
   background-color: white;
   border: 2px solid white;
   border-radius: 8px;
-  padding: 25px 25px 50px 50px;
+  margin: 25px 25px 50px 50px;
 }
 
 p.ots {
